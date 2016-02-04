@@ -36,4 +36,6 @@
     }
     sum.textContent = checkedLength ;
   }
+
+  
 })();
